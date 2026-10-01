@@ -47,15 +47,9 @@ The main objectives of these projects were to:
 
 #### 1️⃣ **DST1_Project – Smart Greenhouse** *(Computer Systems Engineering I)*
 
-Embedded greenhouse controller on an **Arduino Due (ARM, SAM3X8E)** using a keypad, LCD, photosensor, temperature sensor, servo motor and LEDs. Includes a SysTick-based calendar, time-stamped temperature logging in a linked list, temperature alarms, sun tracking with shade and LED control, and a fast simulation mode.
-
 #### 2️⃣ **DST2_Project** *(Computer Systems Engineering II)*
 
-[Write 1–2 sentences about what you built. If this is the real-time microkernel, mention task scheduling, inter-process communication and preemptive multitasking in C.]
-
 #### 3️⃣ **Robot_Fullstack_Version**
-
-[Write 1–2 sentences. For example: robotic arm control with a Django backend, a C/Python communication layer and live web monitoring.]
 
 ---
 
@@ -63,15 +57,9 @@ Embedded greenhouse controller on an **Arduino Due (ARM, SAM3X8E)** using a keyp
 
 #### 4️⃣ **Java_OOP_Project**
 
-[Write 1–2 sentences about the project.]
-
 #### 5️⃣ **Java_Simple_Lottery_System**
 
-[Write 1–2 sentences.]
-
 #### 6️⃣ **Java_Dining_Philosophers**
-
-Implementation of the classic dining philosophers problem, focusing on **concurrency and synchronization**.
 
 ---
 
@@ -79,19 +67,11 @@ Implementation of the classic dining philosophers problem, focusing on **concurr
 
 #### 7️⃣ **Java_Internet_Chat_Server**
 
-[Write 1–2 sentences.]
-
 #### 8️⃣ **Java_REST_API_Primes**
-
-[Write 1–2 sentences about the REST API.]
 
 #### 9️⃣ **Java_Remote_File_List_Sync**
 
-[Write 1–2 sentences.]
-
 #### 🔟 **Java_Google_File_Sync**
-
-[Write 1–2 sentences.]
 
 ---
 
@@ -99,11 +79,7 @@ Implementation of the classic dining philosophers problem, focusing on **concurr
 
 #### 1️⃣1️⃣ **Sara-Bootstrap-Project**
 
-[Write 1–2 sentences. For example: responsive web project built with Bootstrap.]
-
 #### 1️⃣2️⃣ **Matlab_Project**
-
-[Write 1–2 sentences.]
 
 ---
 
